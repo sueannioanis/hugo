@@ -17,13 +17,13 @@ require (
 	github.com/dustin/go-humanize v1.0.0
 	github.com/evanw/esbuild v0.7.4
 	github.com/fortytw2/leaktest v1.3.0
-	github.com/frankban/quicktest v1.11.0
+	github.com/frankban/quicktest v1.14.3
 	github.com/fsnotify/fsnotify v1.4.9
 	github.com/getkin/kin-openapi v0.22.0
 	github.com/ghodss/yaml v1.0.0
 	github.com/gobwas/glob v0.2.3
 	github.com/gohugoio/testmodBuilder/mods v0.0.0-20190520184928-c56af20f2e95
-	github.com/google/go-cmp v0.5.2
+	github.com/google/go-cmp v0.5.7
 	github.com/gorilla/websocket v1.4.2
 	github.com/jdkato/prose v1.2.0
 	github.com/kyokomi/emoji v2.2.4+incompatible
