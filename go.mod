@@ -46,7 +46,7 @@ require (
 	github.com/sanity-io/litter v1.3.0
 	github.com/spf13/afero v1.4.0
 	github.com/spf13/cast v1.3.1
-	github.com/spf13/cobra v0.0.7
+	github.com/spf13/cobra v1.4.0
 	github.com/spf13/fsync v0.9.0
 	github.com/spf13/jwalterweatherman v1.1.0
 	github.com/spf13/pflag v1.0.5
@@ -62,7 +62,7 @@ require (
 	google.golang.org/api v0.13.0
 	gopkg.in/check.v1 v1.0.0-20190902080502-41f04d3bba15 // indirect
 	gopkg.in/ini.v1 v1.51.1 // indirect
-	gopkg.in/yaml.v2 v2.3.0
+	gopkg.in/yaml.v2 v2.4.0
 )
 
 replace github.com/markbates/inflect => github.com/markbates/inflect v0.0.0-20171215194931-a12c3aec81a6
